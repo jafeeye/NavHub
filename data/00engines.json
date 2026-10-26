@@ -1,7 +1,7 @@
 {
   "categories": [
-    {"label": "🤖 AI", "value": "ai"},
     {"label": "🔍 搜索", "value": "search"},
+    {"label": "🤖 AI", "value": "ai"},
     {"label": "🧭 导航", "value": "nav"},
     {"label": "🗂️ 网盘", "value": "pan_search"},
     {"label": "🧲 磁力", "value": "bt"},
@@ -11,15 +11,8 @@
     {"label": "📚 动漫番剧", "value": "anime"}
   ],
   "engines": {
-    "ai": [
-      {"name": "AI Studio", "url": "https://aistudio.google.com/prompts/new_chat?prompt=%s", "proxy": true, "desc": "Google AI Studio"},
-      {"name": "ChatGPT", "url": "https://chatgpt.com/?prompt=%s", "proxy": true, "desc": "OpenAI 新版交互式查询，融合 GPT 结果与网页引用。"},
-      {"name": "秘塔搜索", "url": "https://metaso.cn/?q=%s", "proxy": false, "desc": "无广告的 AI 搜索引擎，提供结构化信息整理。"},
-      {"name": "Perplexity", "url": "https://www.perplexity.ai/search?q=%s", "proxy": true, "desc": "结合 GPT 的智能对话式搜索，提供精准引用来源。"},
-      {"name": "You.com", "url": "https://you.com/search?q=%s", "proxy": true, "desc": "AI 驱动的问答式搜索，支持插件与多模式信息展示。"}
-    ],
     "search": [
-      {"name": "谷歌", "url": "https://www.google.com/search?q=%s", "proxy": true, "desc": "全球最大的搜索引擎，索引全面，技术领先。"},
+      {"name": "谷歌", "url": "https://www.google.com/search?q=%s", "proxy": false, "desc": "全球最大的搜索引擎，索引全面，技术领先。"},
       {"name": "百度", "url": "https://www.baidu.com/s?wd=%s", "proxy": false, "desc": "全球最大的中文搜索引擎，更懂中国互联网。"},
       {"name": "必应", "url": "https://www.bing.com/search?q=%s&PC=U316&FORM=CHROMN", "proxy": false, "desc": "微软出品，国际版搜索质量高，深度整合 AI 功能。"},
       {"name": "夸克", "url": "https://quark.sm.cn/s?q=%s", "proxy": false, "desc": "阿里巴巴旗下智能搜索，资源整合能力强。"},
@@ -30,6 +23,13 @@
       {"name": "知乎", "url": "https://www.zhihu.com/search?q=%s", "proxy": false, "desc": "高质量中文问答社区，搜索专业知识与经验分享。"},
       {"name": "微信", "url": "https://weixin.sogou.com/weixin?p=01030402&query=%s&type=2&ie=utf8", "proxy": false, "desc": "搜狗提供的微信生态内文章、公众号及朋友圈搜索。"},
       {"name": "今日头条", "url": "https://www.toutiao.com/search/?keyword=%s", "proxy": false, "desc": "基于算法推荐的新闻资讯聚合与热点搜索。"}
+    ],
+    "ai": [
+      {"name": "AI Studio", "url": "https://aistudio.google.com/prompts/new_chat?prompt=%s", "proxy": false, "desc": "Google AI Studio"},
+      {"name": "ChatGPT", "url": "https://chatgpt.com/?prompt=%s", "proxy": false, "desc": "OpenAI 新版交互式查询，融合 GPT 结果与网页引用。"},
+      {"name": "秘塔搜索", "url": "https://metaso.cn/?q=%s", "proxy": true, "desc": "无广告的 AI 搜索引擎，提供结构化信息整理。"},
+      {"name": "Perplexity", "url": "https://www.perplexity.ai/search?q=%s", "proxy": false, "desc": "结合 GPT 的智能对话式搜索，提供精准引用来源。"},
+      {"name": "You.com", "url": "https://you.com/search?q=%s", "proxy": true, "desc": "AI 驱动的问答式搜索，支持插件与多模式信息展示。"}
     ],
     "nav": [
       {"name": "刘明野的工具箱", "url": "https://tool.liumingye.cn/search/%s/", "proxy": false, "desc": "老牌实用的在线工具与资源聚合导航。"},
