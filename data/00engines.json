@@ -4,9 +4,7 @@
     {"label": "🤖 AI", "value": "ai"},
     {"label": "🧭 导航", "value": "nav"},
     {"label": "🗂️ 网盘", "value": "pan_search"},
-    {"label": "🧲 磁力", "value": "bt"},
     {"label": "📺 视频", "value": "video"},
-    {"label": "🎬 影视点评", "value": "movie_review"},
     {"label": "🎞️ 小众视频", "value": "movie_streaming"},
     {"label": "📚 动漫番剧", "value": "anime"}
   ],
@@ -53,17 +51,6 @@
       {"name": "小宇搜索", "url": "https://xykmovie.com/s/1/%s", "proxy": false, "desc": "综合性资源搜索，支持影视与软件。"},
       {"name": "混合盘", "url": "https://hunhepan.com/search?q=%s&type=ALY", "proxy": false, "desc": "同时支持阿里云盘、百度盘等多种网盘搜索。"}
     ],
-    "bt": [
-      {"name": "海盗湾_1", "url": "https://thepiratebay11.com/search/%s/1/99/0", "proxy": false, "desc": "全球最著名的老牌 BT 种子搜索网站。"},
-      {"name": "海盗湾_2", "url": "https://thepiratebay10.xyz/search/%s/1/99/0", "proxy": false, "desc": "海盗湾的镜像站点之一，保持资源同步。"},
-      {"name": "RARBG", "url": "https://rargb.to/search/?search=%s", "proxy": false, "desc": "以高质量影视资源著称的种子站（存档查询）。"},
-      {"name": "无极磁链", "url": "https://xcili.net/search?q=%s", "proxy": false, "desc": "索引量大的磁力链接搜索引擎。"},
-      {"name": "rutracker", "url": "https://rutracker.org/forum/login.php?redirect=tracker.php?nm=%s", "proxy": true, "desc": "俄罗斯最大的资源论坛，无损音乐和冷门资源圣地。"},
-      {"name": "katcr", "url": "https://katcr.to/usearch/%s/", "proxy": true, "desc": "Kickass Torrents 的复活或镜像站。"},
-      {"name": "btchichi", "url": "https://tainanle8.btchichi.hair/search.html?name=%s", "proxy": false, "desc": "专注于日语资源的 BT 搜索引擎。"},
-      {"name": "东京图书馆", "url": "https://www.tokyotosho.info/search.php?terms=%s", "proxy": true, "desc": "专注于 ACG 资源的发布与索引站。"},
-      {"name": "ACG", "url": "https://acg.rip/?term=%s", "proxy": true, "desc": "国内知名的动漫资源 BT 发布站。"}
-    ],
     "video": [
       {"name": "YouTube", "url": "https://www.youtube.com/results?search_query=%s", "proxy": true, "desc": "全球最大的视频分享与创作平台。"},
       {"name": "B站", "url": "https://search.bilibili.com/all?keyword=%s", "proxy": false, "desc": "国内最大的二次元及年轻人潮流文化社区。"},
@@ -75,16 +62,6 @@
       {"name": "A站", "url": "https://www.acfun.cn/search/?type=complex&keyword=%s", "proxy": false, "desc": "AcFun，中国弹幕视频网站鼻祖，硬核二次元。"},
       {"name": "Vimeo", "url": "https://vimeo.com/search?q=%s", "proxy": true, "desc": "专注于高清、艺术与创意视频的分享平台。"},
       {"name": "Dailymotion", "url": "https://www.dailymotion.com/search/%s", "proxy": true, "desc": "法国视频分享平台，YouTube 的主要竞品之一。"}
-    ],
-    "movie_review": [
-      {"name": "豆瓣", "url": "https://www.douban.com/search?q=%s", "proxy": false, "desc": "中国最具影响力的书影音评分与评论社区。"},
-      {"name": "IMDb", "url": "https://www.imdb.com/find/?q=%s", "proxy": false, "desc": "全球最大的电影数据库，评分具有国际公信力。"},
-      {"name": "烂番茄", "url": "https://www.rottentomatoes.com/search?search=%s", "proxy": false, "desc": "以新鲜度著称的专业影评聚合网站。"},
-      {"name": "Metacritic", "url": "https://www.metacritic.com/search/%s/", "proxy": false, "desc": "媒体综合评分网站，对电影、游戏、剧集都有权威评价。"},
-      {"name": "Letterboxd", "url": "https://letterboxd.com/search/%s/", "proxy": false, "desc": "全球影迷聚集地，提供观影记录、影评与片单功能。"},
-      {"name": "CineMaterial", "url": "https://www.cinematerial.com/search?q=%s", "proxy": false, "desc": "全球电影海报资料库，可按片名搜索相关素材。"},
-      {"name": "FilmAffinity", "url": "https://www.filmaffinity.com/en/search.php?stext=%s", "proxy": false, "desc": "西班牙大型电影推荐网站，评分具有区域特色。"},
-      {"name": "AllMovie", "url": "https://www.allmovie.com/search/all/%s", "proxy": false, "desc": "专业电影资料库，提供剧情分析、风格标签与影评。"}
     ],
     "movie_streaming": [
       {"name": "爱壹帆", "url": "https://www.iyf.lv/s/-------------/?wd=%s", "proxy": false, "desc": "海外华人常用的高清影视在线观看平台。"},
