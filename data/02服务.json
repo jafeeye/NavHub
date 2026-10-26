@@ -1,6 +1,108 @@
 {
   "categories": [
     {
+    "customUserSites": {
+      "categoryName": "常用網站",
+      "categoryId": "custom-user-sites",
+      "sites": [
+        {
+          "id": "site-1793021795521-0.2676143599880082",
+          "url": "https://mail.gss.com.tw/",
+          "title": "GSS Mail",
+          "icon": "https://mail.gss.com.tw/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1793021732626-0.26520163267489405",
+          "url": "https://portal.illumio.com/",
+          "title": "illumio Portal",
+          "icon": "https://portal.illumio.com/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1793021576673-0.05911642531443373",
+          "url": "https://syd.colortokens.com/dashboard",
+          "title": "Colortokens",
+          "icon": "https://syd.colortokens.com/favicon.ico",
+          "desc": "SaaS中控台",
+          "proxy": false
+        },
+        {
+          "id": "site-1793021279229-0.09791721392062025",
+          "url": "https://gssisbu.monday.com/boards/18427218415/pulses/12931531197/posts/5593926155",
+          "title": "Monday",
+          "icon": "https://gssisbu.monday.com/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1793020897883-0.4861666256038265",
+          "url": "https://gip.gss.com.tw/portal",
+          "title": "GIP",
+          "icon": "https://gip.gss.com.tw/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1793020696730-0.810210894170668",
+          "url": "https://partners.colortokens.com/login",
+          "title": "Colortokens Portal",
+          "icon": "https://partners.colortokens.com/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1793006590833-0.5503916342595652",
+          "url": "https://www.oracle.com/tw/cloud/sign-in.html",
+          "title": "Oracle Cloud",
+          "icon": "https://www.oracle.com/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1791176768411-0.25181278006678565",
+          "url": "https://www.bilibili.com/",
+          "title": "bilibili",
+          "icon": "https://www.bilibili.com/",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1786158060235-0.3428322252994128",
+          "url": "https://my.nextdns.io/",
+          "title": "NextDNS",
+          "icon": "https://my.nextdns.io/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1784194619157-0.8354138203253301",
+          "url": "https://vercel.com/login",
+          "title": "Vercel",
+          "icon": "https://vercel.com/favicon.ico",
+          "desc": "",
+          "proxy": false
+        },
+        {
+          "id": "site-1784107640625-0.0047488820774505",
+          "url": "https://dash.domain.digitalplat.org/auth/login",
+          "title": "DigitalPlat",
+          "icon": "https://dash.domain.digitalplat.org/favicon.ico",
+          "desc": "免費網域",
+          "proxy": false
+        },
+        {
+          "id": "site-1784106716514-0.7258872223964107",
+          "url": "https://desec.io/",
+          "title": "deSEC",
+          "icon": "https://desec.io/favicon.ico",
+          "desc": "免費網域",
+          "proxy": false
+        }
+      ]
+    },
       "categoryName": "📂 文件传输与格式转换",
       "categoryId": "wenjianchuanshuyugeshizhuanhuan",
       "sites": [
