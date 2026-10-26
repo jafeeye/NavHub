@@ -109,14 +109,14 @@
         {
           "title": "Youtube Music",
           "url": "https://music.youtube.com/",
-          "icon": "img/5281e972ec463897022f56464011b5ed.webp",
+          "icon": "https://music.youtube.com/favicon.ico",
           "desc": "Muisc",
           "proxy": false
         },
         {
           "title": "Yooutube",
-          "url": "hhttps://wwww.youtube.com/",
-          "icon": "img/7213a0b2bdcd1dd2f806adbc41c12ddc.webp",
+          "url": "https://wwww.youtube.com/",
+          "icon": "https://wwww.youtube.com/favicon.ico",
           "desc": "Youtube 影片",
           "proxy": false
         }
