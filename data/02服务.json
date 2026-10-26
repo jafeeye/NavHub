@@ -1,9 +1,8 @@
 {
   "categories": [
     {
-    "customUserSites": {
       "categoryName": "常用網站",
-      "categoryId": "custom-user-sites",
+      "categoryId": "custom-sites",
       "sites": [
         {
           "id": "site-1793021795521-0.2676143599880082",
@@ -103,6 +102,7 @@
         }
       ]
     },
+    {
       "categoryName": "📂 文件传输与格式转换",
       "categoryId": "wenjianchuanshuyugeshizhuanhuan",
       "sites": [
