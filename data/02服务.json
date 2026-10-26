@@ -115,8 +115,8 @@
         },
         {
           "title": "Yooutube",
-          "url": "https://wwww.youtube.com/",
-          "icon": "https://wwww.youtube.com/favicon.ico",
+          "url": "https://www.youtube.com/",
+          "icon": "https://www.youtube.com/favicon.ico",
           "desc": "Youtube 影片",
           "proxy": false
         }
